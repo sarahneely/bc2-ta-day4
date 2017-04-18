@@ -1,1 +1,13 @@
+.black {
+background-color: black;
+}
 
+.sm_height {
+  height: 20px;
+  margin-top: 20px;
+}
+
+.med_height {
+  height: 60px;
+  margin-top: 20px;
+}
